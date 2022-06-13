@@ -1,0 +1,14 @@
+#include<iostream>
+// This is the c test file
+int x,5kkxjc,arr[5];
+x/= x+5;
+/*
+    Multi line Comment
+*/
+
+// Single line Comment
+for(int i = 0, i <= 4; i++){
+    x += i;
+}
+    x++;
+cout<<x<<endl;
